@@ -1,3 +1,4 @@
+/*global head*/
 #include<iostream>
 using namespace std;
 struct node
